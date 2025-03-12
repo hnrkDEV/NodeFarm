@@ -73,8 +73,3 @@ node src/index.js
 
 - Abra o navegador e vá para: `http://localhost:8000`
 
----
-
-## 📌 **Conclusão**
-
-O projeto **Node Farm** é uma excelente base para entender os conceitos fundamentais do **Node.js**, incluindo a criação de servidor, roteamento e manipulação de templates. Com melhorias adicionais, este projeto pode ser ampliado para uma aplicação mais robusta e profissional.
